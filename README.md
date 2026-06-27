@@ -48,7 +48,7 @@ if __name__ == "__main__":
     sys.exit(main())
 ```
 
-Ignore below comments.
+Ignore bellow comments.
 
 **bold**
 
